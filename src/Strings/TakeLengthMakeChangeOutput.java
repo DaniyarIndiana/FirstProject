@@ -20,5 +20,6 @@ public class TakeLengthMakeChangeOutput {
         } else {
             System.out.println("Invalid data");
         }
-    }
+    }// input:Daniyar Nanbayev output: daniyev@cybertek
+
 }

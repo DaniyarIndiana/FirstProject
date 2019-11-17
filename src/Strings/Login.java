@@ -19,7 +19,7 @@ public class Login {
             System.out.println("Welcome");
         }
 
-        if (loginPass.equals(validPass)) {
+      if (loginPass.equals(validPass)) {
             System.out.println("Welcome");
         }
 

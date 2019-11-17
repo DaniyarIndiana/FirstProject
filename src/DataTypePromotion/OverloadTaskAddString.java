@@ -3,12 +3,6 @@ package DataTypePromotion;
 public class OverloadTaskAddString {
     public static void main(String[] args) {
 
-
-
-
-
-
-
     }
 
     public static String[] increaseArray(String[] arr, String word, int index) {
@@ -41,7 +35,7 @@ public class OverloadTaskAddString {
     public static void secondString (String character2,int index){
         System.out.println(index);
     }
-    public static int printString (String str,int indexOne, int indextwo){
-        return str.substring(indexOne,indextwo).length();
+    public static int printString (String str,int indexOne, int indexTwo){
+        return str.substring(indexOne,indexTwo).length();
     }
 }
